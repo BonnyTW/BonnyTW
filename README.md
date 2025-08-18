@@ -37,5 +37,5 @@ Welcome to my GitHub! 🚀
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 
-### 💬 Fun GIF
+### 💬
 ![Hi GIF](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
