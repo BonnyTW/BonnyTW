@@ -6,12 +6,13 @@ Welcome to my GitHub! 🚀
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF1493&center=true&vCenter=true&width=600&lines=Welcome+to+Bonny's+GitHub;Fullstack+Developer;Spring+Boot+%26+React;Always+Learning;Building+Cool+Projects&loop=true)
 
 ### 📊 GitHub Stats
-![Bonny's GitHub stats](https://github-readme-stats.vercel.app/api?username=BonnyTW&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonnyTW&layout=compact&theme=tokyonight&cache_seconds=1800)
-![Total Stars](https://github-readme-stats.vercel.app/api?username=BonnyTW&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&include_all_commits=true&cache_seconds=1800)
+![Bonny's GitHub stats](https://github-readme-stats.vercel.app/api?username=BonnyTW&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BonnyTW&theme=tokyonight&hide_border=false&cache_seconds=1800)
+
+### 📌 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonnyTW&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ### 🛠️ Tech & Tools
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white&label=)
@@ -21,9 +22,6 @@ Welcome to my GitHub! 🚀
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&label=)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white&label=)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white&label=)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white&label=)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&label=)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&label=)
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/bonny-tilahun-3ab23836a/)
