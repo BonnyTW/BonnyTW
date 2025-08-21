@@ -6,13 +6,13 @@ Welcome to my GitHub! 🚀
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF0000,FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+Bonny's+GitHub;Fullstack+Developer;Spring+Boot+%26+React;Always+Learning;Building+Cool+Projects&loop=true)
 
 ### 📊 GitHub Stats
-![Bonny's GitHub stats](https://github-readme-stats.vercel.app/api?username=BonnyTW&show_icons=true&theme=radical&hide_border=false&text_color=ffffff&icon_color=FF0000&title_color=FF0000&cache_seconds=1800)
+![Bonny's GitHub stats](https://github-readme-stats.vercel.app/api?username=BonnyTW&show_icons=true&hide_border=false&theme=default&bg_color=ffffff&title_color=FF0000&text_color=FF0000&icon_color=FF0000&cache_seconds=1800)
 
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BonnyTW&theme=white&hide_border=false&stroke=FF0000&fire=FF0000&currStreakLabel=FF0000&cache_seconds=1800)
 
 ### 📌 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonnyTW&layout=compact&hide_border=false&theme=radical&text_color=ffffff&title_color=FF0000&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonnyTW&layout=compact&hide_border=false&theme=default&bg_color=ffffff&title_color=FF0000&text_color=FF0000&cache_seconds=1800)
 
 ### 🛠️ Tech & Tools
 <p align="left"> 
