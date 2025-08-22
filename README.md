@@ -31,4 +31,5 @@ Welcome to my GitHub! 🚀
 </p>
 
 ### 💬 
-![Bugs Bunny](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+![Bugs Bunny](assets/bugs-bunny.gif)
+
