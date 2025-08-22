@@ -1,34 +1,37 @@
+# 👋 Hi, I'm Bonny  
 
-<!---
-giftiy/giftiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![MasterHead](http://1.bq.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGb11hSu2SDJ_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](http://giftiy.io)
-<h1 align="center">Hi 👋, I'm Gifti Bulti</h1>
-<h3 align="center">A passionate frontend and bankend developer</h3>
+Welcome to my GitHub! 🚀  
 
-<p align="left"> <img src="https://tenor.com/en-GB/view/coding-girl-gif-2332171326726785246/> </p>
+## ⚡ About Me
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF0000,FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+Bonny's+GitHub;Fullstack+Developer;Spring+Boot+%26+React;Always+Learning;Building+Cool+Projects&loop=true)
 
-- 🔭 I’m currently working on **Website**
+### 📊 GitHub Stats
+![Bonny's GitHub stats](https://github-readme-stats.vercel.app/api?username=BonnyTW&show_icons=true&hide_border=false&theme=default&bg_color=ffffff&title_color=FF0000&text_color=000000&icon_color=FF4500&count_private=true&cache_seconds=1800)
 
-- 🌱 I’m currently learning **Django, React Natice**
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BonnyTW&theme=white&hide_border=false&stroke=FF0000&fire=FF0000&currStreakLabel=FF0000&cache_seconds=1800)
 
-- 💬 Ask me about **Python**
+### 📌 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonnyTW&layout=compact&hide_border=false&theme=default&bg_color=ffffff&title_color=FF0000&text_color=000000&count_private=true&cache_seconds=1800)
 
-- 📫 How to reach me **giftbulti59@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gifti(lady)bulti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gifti(lady)bulti" height="30" width="40" /></a>
-<a href="https://fb.com/gifti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gifti" height="30" width="40" /></a>
-<a href="https://instagram.com/giftlvlady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giftlvlady" height="30" width="40" /></a>
+### 🛠️ Tech & Tools 
+<p align="left"> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/bonny-tilahun-3ab23836a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bonny_tw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giftiy&show_icons=true&locale=en&layout=compact" alt="giftiy" /></p>
+### 💬 
+![Hi GIF](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giftiy&show_icons=true&locale=en" alt="giftiy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giftiy&" alt="giftiy" /></p>
+
