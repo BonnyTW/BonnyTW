@@ -31,7 +31,7 @@ Welcome to my GitHub! 🚀
 </p>
 
 ### 💬 
-![Bugs Bunny](https://github.com/BonnyTW/BonnyTW/raw/main/bugs-bunny.gif)
+![Hi GIF](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
 
 
