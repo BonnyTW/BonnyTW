@@ -9,7 +9,8 @@ Welcome to my GitHub! 🚀
 ![Bonny's GitHub stats](https://github-readme-stats.vercel.app/api?username=BonnyTW&show_icons=true&hide_border=false&theme=default&bg_color=ffffff&title_color=FF0000&text_color=000000&icon_color=FF4500&count_private=true&cache_seconds=1800)
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=BonnyTW&theme=white&hide_border=false&stroke=FF0000&fire=FF0000&currStreakLabel=FF0000&v=1)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=BonnyTW&theme=white&hide_border=false&stroke=FF0000&fire=FF0000&currStreakLabel=FF0000)
+
 
 ### 📌 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonnyTW&layout=compact&hide_border=false&theme=default&bg_color=ffffff&title_color=FF0000&text_color=000000&count_private=true&cache_seconds=1800)
