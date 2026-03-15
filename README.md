@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! 🚀  
 
-## ⚡ About Me
+## ⚡ About Me 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF0000,FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+Bonny's+GitHub;Backend+Developer;Spring+Boot+%26+React;Always+Learning;Building+Cool+Projects&loop=true)
 
 ### 📊 GitHub Stats
