@@ -1,51 +1,87 @@
-# 👋 Hi, I'm Bonny 
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Bonny Tilahun</h1>
+<h3 align="center">🚀 Backend Developer | Spring Boot & React Enthusiast</h3>
 
-Welcome to my GitHub! 🚀  
-
-## ⚡ About Me 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF0000,FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+Bonny's+GitHub;Backend+Developer;Spring+Boot+%26+React;Always+Learning;Building+Cool+Projects&loop=true)
-
-### 📊 GitHub Stats
-![Bonny's GitHub stats](https://github-readme-stats.vercel.app/api?username=BonnyTW&show_icons=true&hide_border=false&theme=default&bg_color=ffffff&title_color=FF0000&text_color=000000&icon_color=FF4500&count_private=true&cache_seconds=1800)
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=BonnyTW&theme=white&hide_border=false&stroke=FF0000&fire=FF0000&currStreakLabel=FF0000)
-
-
-### 📌 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonnyTW&layout=compact&hide_border=false&theme=default&bg_color=ffffff&title_color=FF0000&text_color=000000&count_private=true&cache_seconds=1800)
-
-### 🛠️ Tech & Tools 
-<p align="left"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40"/> 
-</a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF0000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Backend+Developer;Spring+Boot+%26+React;Problem+Solver;Always+Learning+New+Things" />
 </p>
 
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/bonny-tilahun-3ab23836a/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/bonny_tw/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
+---
+
+## 🧠 About Me
+
+- 🎓 Computer Science & Engineering Student  
+- 💻 Passionate about **Backend Development**  
+- ⚙️ Working with **Spring Boot, REST APIs, and React**  
+- 🧩 Love solving problems & building real-world projects  
+- 📚 Currently learning: **Spring Security & Full-Stack Development**  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,git,github,vscode" />
 </p>
 
-### 💬 
-![Hi GIF](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BonnyTW&show_icons=true&theme=default&hide_border=false&title_color=FF0000&icon_color=FF0000" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonnyTW&layout=compact&theme=default&hide_border=false&title_color=FF0000" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BonnyTW&theme=default&hide_border=false&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
+</p>
+
+---
+
+## 🧩 Featured Projects
+
+🚧 *Coming Soon — Building awesome projects...*
+
+- 🔹 Full Stack Product App (Spring Boot + React)
+- 🔹 Library Management System (Java)
+- 🔹 Chatbot Application (Java)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bonny-tilahun-3ab23836a/">
+    <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/bonny_tw/">
+    <img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💡 *I turn coffee ☕ into scalable backend systems.*
+
+---
+
+## 🎯 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BonnyTW&label=Profile%20views&color=FF0000&style=flat" />
+</p>
+
+---
+
+## 💬 Let's Build Something Amazing!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300" />
+</p>
