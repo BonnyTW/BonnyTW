@@ -1,87 +1,70 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Bonny Tilahun</h1>
-<h3 align="center">🚀 Backend Developer | Spring Boot & React Enthusiast</h3>
+<h1 align="center">Hey 👋, I'm Bonny</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF0000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Backend+Developer;Spring+Boot+%26+React;Problem+Solver;Always+Learning+New+Things" />
+  <b>Backend Developer | Spring Boot • React</b><br>
+  Building real-world applications & solving problems 🚀
 </p>
 
 ---
 
-## 🧠 About Me
+## ⚡ About Me
 
-- 🎓 Computer Science & Engineering Student  
-- 💻 Passionate about **Backend Development**  
-- ⚙️ Working with **Spring Boot, REST APIs, and React**  
-- 🧩 Love solving problems & building real-world projects  
-- 📚 Currently learning: **Spring Security & Full-Stack Development**  
+- 🎓 CSE Student at Adama Science & Technology University  
+- 💻 Focused on **Backend Development (Spring Boot)**  
+- 🌐 Also working with **React & JavaScript**  
+- 🧠 Improving problem-solving (A2SV / Competitive Programming)  
+- 🚀 Goal: Become a strong **Full-Stack Developer**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,git,github,vscode" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BonnyTW&show_icons=true&theme=default&hide_border=false&title_color=FF0000&icon_color=FF0000" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonnyTW&layout=compact&theme=default&hide_border=false&title_color=FF0000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BonnyTW&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BonnyTW&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 📌 Projects
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BonnyTW&theme=default&hide_border=false&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
-</p>
-
----
-
-## 🧩 Featured Projects
-
-🚧 *Coming Soon — Building awesome projects...*
-
-- 🔹 Full Stack Product App (Spring Boot + React)
-- 🔹 Library Management System (Java)
-- 🔹 Chatbot Application (Java)
+- 🔹 Full Stack Product App (Spring Boot + React)  
+- 🔹 Library Management System (Java)  
+- 🔹 Java Chatbot Application  
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bonny-tilahun-3ab23836a/">
-    <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/bonny_tw/">
-    <img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<p align="left">
+<a href="https://www.linkedin.com/in/bonny-tilahun-3ab23836a/" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://www.instagram.com/bonny_tw/" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
-
-💡 *I turn coffee ☕ into scalable backend systems.*
-
----
-
-## 🎯 Profile Views
+## 💬
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BonnyTW&label=Profile%20views&color=FF0000&style=flat" />
-</p>
-
----
-
-## 💬 Let's Build Something Amazing!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="250"/>
 </p>
