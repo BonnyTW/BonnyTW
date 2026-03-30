@@ -70,7 +70,7 @@
 ## 🐍 Contribution Snake (Dark)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BonnyTW/BonnyTW/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/BonnyTW/BonnyTW/output/dist/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
