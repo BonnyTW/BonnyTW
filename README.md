@@ -11,11 +11,9 @@
 
 ## ⚡ About Me
 
-- 🎓 CSE Student (ASTU)
+- 🎓 CSE Student @ ASTU
 - 🧠 Competitive Programmer 
-- 💻 Backend focused — **Spring Boot**  
-- 🌐 Frontend — **React**  
-- 🎯 Goal: **Full-Stack Engineer**  
+- 🎯 Full-Stack Engineer  
 
 
 ## 🛠 Tech Stack
