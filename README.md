@@ -12,10 +12,10 @@
 
 ## ⚡ About Me
 
-- 🎓 CSE Student (ASTU)  
+- 🎓 CSE Student (ASTU)
+- 🧠 Competitive Programmer 
 - 💻 Backend focused — **Spring Boot**  
 - 🌐 Frontend — **React**  
-- 🧠 Competitive Programming (A2SV)  
 - 🎯 Goal: **Full-Stack Engineer**  
 
 ---
@@ -66,15 +66,6 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake (Dark)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BonnyTW/BonnyTW/output/dist/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 💬
 
 <p align="center">
