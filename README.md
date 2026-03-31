@@ -8,7 +8,6 @@
   🚀 Building scalable backend systems & real-world applications
 </p>
 
----
 
 ## ⚡ About Me
 
@@ -18,7 +17,6 @@
 - 🌐 Frontend — **React**  
 - 🎯 Goal: **Full-Stack Engineer**  
 
----
 
 ## 🛠 Tech Stack
 
@@ -31,7 +29,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -44,15 +41,12 @@
   <img src="https://streak-stats.demolab.com?user=BonnyTW&theme=dark&hide_border=true"/>
 </p>
 
----
 
 ## 🧩 Projects
 
 - 🔹 Full Stack Product App (Spring Boot + React)  
 - 🔹 Library Management System  
 - 🔹 Java Chatbot  
-
----
 
 ## 🌐 Connect With Me
 
@@ -65,7 +59,6 @@
 </a>
 </p>
 
----
 ## 💬
 
 <p align="center">
