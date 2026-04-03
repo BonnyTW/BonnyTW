@@ -40,12 +40,6 @@
 </p>
 
 
-## 🧩 Projects
-
-- 🔹 Full Stack Product App (Spring Boot + React)  
-- 🔹 Library Management System  
-- 🔹 Java Chatbot  
-
 ## 🌐 Connect With Me
 
 <p align="center">
