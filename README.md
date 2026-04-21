@@ -45,7 +45,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/bonny-tilahun-3ab23836a/" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="40"/>
-</a>
+</a></br>
 <a href="https://www.instagram.com/bonny_tw/" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="40"/>
 </a>
