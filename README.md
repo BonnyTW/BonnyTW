@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bonny</h1>
+<h1 align="center">Hi 👋, I'm Bonny</h1> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Backend+Developer;Spring+Boot+%7C+React;Problem+Solver;Always+Learning" />
