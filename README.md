@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BonnyTW&color=2F81F7&style=flat-square&label=Profile+Views" alt="profile views" />
   <a href="https://www.linkedin.com/in/bonny-tilahun-3ab23836a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/bonny_tw/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
