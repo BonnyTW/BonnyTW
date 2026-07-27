@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Bonny 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Spring+Boot+%7C+FastAPI+%7C+React;Systems+%26+IoT+Enthusiast;Always+Building%2C+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0F81F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Spring+Boot+%7C+FastAPI+%7C+React;Systems+%26+IoT+Enthusiast;Always+Building%2C+Always+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
