@@ -17,9 +17,7 @@
 
 - 🎓 CSE Student @ ASTU
 - 🧠 Competitive programmer with a problem-solving mindset
-- 🏗️ Interested in system architecture, backend engineering & full-stack development
-- 🌱 Currently deepening my skills in **FastAPI** and **Three.js**
-- ⚡ I learn best by building — projects over passive tutorials
+- 🏗️ Interested in system architecture, backend engineering & full-stack development  
 
 <br/>
 
